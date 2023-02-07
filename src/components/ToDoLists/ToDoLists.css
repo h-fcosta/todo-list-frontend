@@ -1,0 +1,64 @@
+.title-tiles {
+  text-align: center;
+  font-family: "Poppins", sans-serif;
+  color: black;
+  font-size: 1.5em;
+}
+
+.insert-task::after {
+  content: "";
+  display: block;
+  margin: auto;
+  width: 75%;
+  border-bottom: 5px solid #0081a7;
+}
+
+.list-task::after {
+  content: "";
+  display: block;
+  margin: auto;
+  width: 75%;
+  border-bottom: 5px solid #e88d39;
+}
+
+.completed-task::after {
+  content: "";
+  display: block;
+  margin: auto;
+  width: 75%;
+  border-bottom: 5px solid #4ac959;
+}
+.please-login-task::after {
+  content: "";
+  display: block;
+  margin: auto;
+  width: 75%;
+  border-bottom: 5px solid #a22522;
+}
+
+.box-content {
+  text-align: center;
+}
+
+.box-btn-form {
+  background-color: black;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.submit-btn {
+  cursor: pointer;
+  padding: 16px 75px 16px 75px;
+  color: white;
+  border: none;
+  background-color: transparent;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 600;
+}
+
+.btns-edit-delete {
+  border: none;
+  background-color: transparent;
+  cursor: pointer;
+  color: #999999;
+}

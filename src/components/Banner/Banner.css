@@ -1,0 +1,26 @@
+.banner {
+  background: #000000;
+}
+
+.text-title {
+  color: white;
+  text-align: center;
+  font-size: 3em;
+  font-family: "Poppins", sans-serif;
+}
+
+.text-title::after {
+  content: "";
+  display: block;
+  margin: 0 auto;
+  width: 22.5%;
+  /* padding-top: 20px; */
+  border-bottom: 5px solid #4ac959;
+}
+
+.text-content {
+  color: white;
+  text-align: center;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 500;
+}

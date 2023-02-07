@@ -1,0 +1,15 @@
+body {
+  margin: 0;
+  font-family: "Montserrat", sans-serif !important;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-image: url("./assets/BG.png");
+  background-repeat: no-repeat;
+  background-position-x: right;
+  background-position-y: -45%;
+  background-attachment: fixed;
+}
+
+.teste {
+  background: #000000;
+}

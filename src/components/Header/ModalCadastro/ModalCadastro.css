@@ -1,0 +1,24 @@
+.close-modal {
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+  right: calc(-100% + 64px);
+  top: 16px;
+  display: flex;
+  position: relative;
+  align-items: center;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 700;
+}
+
+.button-login {
+  color: white;
+  background: #4ac959;
+  height: 64px;
+  width: 290px;
+  cursor: pointer;
+  border: none;
+  font-family: "Montserrat", sans-serif;
+  font-size: 1.5em;
+  font-weight: 600;
+}

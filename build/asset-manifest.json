@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7a5b51c2.css",
+    "main.js": "/static/js/main.e345a662.js",
+    "static/js/787.becae274.chunk.js": "/static/js/787.becae274.chunk.js",
+    "static/media/foto1.png": "/static/media/foto1.7e7be39d4c9bf5b4675c.png",
+    "static/media/artesao.png": "/static/media/artesao.07c2b36604d29325cf03.png",
+    "static/media/funcionarios.png": "/static/media/funcionarios.9d7790edf9c741969638.png",
+    "static/media/costura.png": "/static/media/costura.825a84e4442e0bf76df5.png",
+    "index.html": "/index.html",
+    "main.7a5b51c2.css.map": "/static/css/main.7a5b51c2.css.map",
+    "main.e345a662.js.map": "/static/js/main.e345a662.js.map",
+    "787.becae274.chunk.js.map": "/static/js/787.becae274.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7a5b51c2.css",
+    "static/js/main.e345a662.js"
+  ]
+}

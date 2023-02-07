@@ -1,0 +1,24 @@
+.bg {
+  background-color: #000000;
+  color: white;
+  padding: 3rem 1.5rem 0rem !important;
+}
+
+.shape-bottom {
+  background-color: #4ac959;
+}
+
+.text-footer {
+  font-size: 1.5em;
+  font-weight: 600;
+  color: white;
+  margin: 0 0 10px !important;
+}
+
+a:link {
+  color: white !important;
+}
+
+a:visited {
+  color: white;
+}
