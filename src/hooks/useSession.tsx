@@ -2,7 +2,7 @@ import { useCallback } from "react";
 import { useRecoilState } from "recoil";
 import { sessionStore } from "../store/atom";
 
-export default () => {
+const useSession = () => {
   const [session, setSession] = useRecoilState(sessionStore);
 
   const handleSignIn = useCallback(
@@ -15,6 +15,8 @@ export default () => {
 
   return {
     session,
-    handleSignIn,
+    handleSignIn
   };
 };
+
+export default useSession;
